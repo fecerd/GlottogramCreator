@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--
+		1 : ː 鼻音に長音記号付加
+		2 : ˑ 鼻音に半長音記号付加
+		4 : ʲ 後続の子音の硬口蓋化記号を鼻音にも付加
+		8 : ̚ 促音の子音が破裂音のとき、非開放記号を付加
+		16 : 促音で終わるとき、記号を削除する
+	-->
+	
+	<rule>
+		<char>N</char>
+		<replace id="0">
+			<postfix>p</postfix>
+			<postfix>b</postfix>
+			<postfix>m</postfix>
+			<result>m</result>
+		</replace>
+		<replace id="0">
+			<postfix>t</postfix>
+			<postfix>d</postfix>
+			<postfix>n</postfix>
+			<postfix>ɾ</postfix>
+			<postfix>r</postfix>
+			<result>n</result>
+		</replace>
+		<replace id="0">
+			<postfix>k</postfix>
+			<postfix>g</postfix>
+			<postfix>ŋ</postfix>
+			<result>ŋ</result>
+		</replace>
+		<replace id="0">
+			<postfix></postfix>
+			<result>ɴ</result>
+		</replace>
+		<addpostfix id="4">
+			<postfix>pʲ</postfix>
+			<postfix>bʲ</postfix>
+			<postfix>mʲ</postfix>
+			<postfix>tʲ</postfix>
+			<postfix>dʲ</postfix>
+			<postfix>nʲ</postfix>
+			<postfix>ɾʲ</postfix>
+			<postfix>rʲ</postfix>
+			<postfix>kʲ</postfix>
+			<postfix>gʲ</postfix>
+			<postfix>ŋʲ</postfix>
+			<postfix>kʷʲ</postfix>
+			<postfix>gʷʲ</postfix>
+			<postfix>ŋʷʲ</postfix>
+			<result>ʲ</result>
+		</addpostfix>
+		<addpostfix id="1">
+			<postfix></postfix>
+			<result>ː</result>
+		</addpostfix>
+		<addpostfix id="2">
+			<postfix></postfix>
+			<result>ˑ</result>
+		</addpostfix>
+	</rule>
+
+	<rule>
+		<char>Q</char>
+		<replace id="8">
+			<postfix>p</postfix>
+			<result>p̚</result>
+		</replace>
+		<replace id="8">
+			<postfix>b</postfix>
+			<result>b̚</result>
+		</replace>
+		<replace id="8">
+			<postfix>t</postfix>
+			<result>t̚</result>
+		</replace>
+		<replace id="8">
+			<postfix>d</postfix>
+			<result>d̚</result>
+		</replace>
+		<replace id="8">
+			<postfix>k</postfix>
+			<result>k̚</result>
+		</replace>
+		<replace id="8">
+			<postfix>g</postfix>
+			<result>g̚</result>
+		</replace>
+		<replace id="0">
+			<postfix>p</postfix>
+			<result>p</result>
+		</replace>
+		<replace id="0">
+			<postfix>b</postfix>
+			<result>b</result>
+		</replace>
+		<replace id="0">
+			<postfix>t</postfix>
+			<result>t</result>
+		</replace>
+		<replace id="0">
+			<postfix>d</postfix>
+			<result>d</result>
+		</replace>
+		<replace id="0">
+			<postfix>k</postfix>
+			<result>k</result>
+		</replace>
+		<replace id="0">
+			<postfix>g</postfix>
+			<result>g</result>
+		</replace>
+		<replace id="0">
+			<postfix>m</postfix>
+			<result>m</result>
+		</replace>
+		<replace id="0">
+			<postfix>n</postfix>
+			<result>n</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɲ</postfix>
+			<result>ɲ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ŋ</postfix>
+			<result>ŋ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɾ</postfix>
+			<result>ɾ</result>
+		</replace>
+		<replace id="0">
+			<postfix>r</postfix>
+			<result>r</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɸ</postfix>
+			<result>ɸ</result>
+		</replace>
+		<replace id="0">
+			<postfix>s</postfix>
+			<result>s</result>
+		</replace>
+		<replace id="0">
+			<postfix>z</postfix>
+			<result>z</result>
+		</replace>
+		<replace id="0">
+			<postfix>ʃ</postfix>
+			<result>ʃ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɕ</postfix>
+			<result>ɕ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ʑ</postfix>
+			<result>ʑ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ʒ</postfix>
+			<result>ʒ</result>
+		</replace>
+		<replace id="0">
+			<postfix>ç</postfix>
+			<result>ç</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɣ</postfix>
+			<result>ɣ</result>
+		</replace>
+		<replace id="0">
+			<postfix>h</postfix>
+			<result>h</result>
+		</replace>
+		<replace id="0">
+			<postfix>j</postfix>
+			<result>j</result>
+		</replace>
+		<replace id="0">
+			<postfix>w</postfix>
+			<result>w</result>
+		</replace>
+		<replace id="0">
+			<postfix>ɰ</postfix>
+			<result>ɰ</result>
+		</replace>
+		<replace id="0">
+			<postfix>a</postfix>
+			<postfix>i</postfix>
+			<postfix>u</postfix>
+			<postfix>e</postfix>
+			<postfix>o</postfix>
+			<postfix>ɔ</postfix>
+			<postfix>ɛ</postfix>
+			<postfix>æ</postfix>
+			<postfix>ø</postfix>
+			<postfix>œ</postfix>
+			<result>ʔ</result>
+		</replace>
+		<replace id="16">
+			<postfix></postfix>
+			<result></result>
+		</replace>
+		<replace id="0">
+			<postfix></postfix>
+			<result>ʔ</result>
+		</replace>
+	</rule>
+</root>

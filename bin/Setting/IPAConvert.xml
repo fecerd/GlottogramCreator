@@ -1,0 +1,1816 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<following>ァ</following>
+	<following>ィ</following>
+	<following>ゥ</following>
+	<following>ェ</following>
+	<following>ォ</following>
+	<following>ヮ</following>
+	<following>ャ</following>
+	<following>ュ</following>
+	<following>ョ</following>
+	<following>゜</following>
+	<following>゚</following>
+	<following>＾</following>
+
+	<char>
+		<kana>ア</kana>
+		<ipa id="0">a</ipa>
+	</char>
+	<char>
+		<kana>イ</kana>
+		<ipa id="0">i</ipa>
+	</char>
+	<char>
+		<kana>ウ</kana>
+		<ipa id="0">ɯ</ipa>
+		<ipa id="1">u</ipa>
+	</char>
+	<char>
+		<kana>エ</kana>
+		<ipa id="0">e</ipa>
+	</char>
+	<char>
+		<kana>オ</kana>
+		<ipa id="0">o</ipa>
+	</char>
+	<char>
+		<kana>オァ</kana>
+		<ipa id="0">ɔ</ipa>
+	</char>
+	<char>
+		<kana>エァ</kana>
+		<ipa id="0">ɛ</ipa>
+	</char>
+	<char>
+		<kana>アェ</kana>
+		<ipa id="0">æ</ipa>
+	</char>
+	<char>
+		<kana>エォ</kana>
+		<ipa id="0">ø</ipa>
+	</char>
+	<char>
+		<kana>オェ</kana>
+		<ipa id="0">œ</ipa>
+	</char>
+
+	<char>
+		<kana>カ</kana>
+		<ipa id="0">ka</ipa>
+	</char>
+	<char>
+		<kana>キ</kana>
+		<ipa id="0">ki</ipa>
+		<ipa id="4096">kji</ipa>
+		<ipa id="12288">kʲi</ipa>
+	</char>
+	<char>
+		<kana>ク</kana>
+		<ipa id="0">kɯ</ipa>
+		<ipa id="1">ku</ipa>
+	</char>
+	<char>
+		<kana>ケ</kana>
+		<ipa id="0">ke</ipa>
+	</char>
+	<char>
+		<kana>コ</kana>
+		<ipa id="0">ko</ipa>
+	</char>
+	<char>
+		<kana>コァ</kana>
+		<ipa id="0">kɔ</ipa>
+	</char>
+	<char>
+		<kana>ケァ</kana>
+		<ipa id="0">kɛ</ipa>
+	</char>
+	<char>
+		<kana>カェ</kana>
+		<ipa id="0">kæ</ipa>
+	</char>
+	<char>
+		<kana>ケォ</kana>
+		<ipa id="0">kø</ipa>
+	</char>
+	<char>
+		<kana>コェ</kana>
+		<ipa id="0">kœ</ipa>
+	</char>
+
+	<char>
+		<kana>ガ</kana>
+		<ipa id="0">ga</ipa>
+		<ipa id="2">ɣa</ipa>
+	</char>
+	<char>
+		<kana>ギ</kana>
+		<ipa id="0">gi</ipa>
+		<ipa id="2">ɣi</ipa>
+		<ipa id="4096">gji</ipa>
+		<ipa id="4098">ɣji</ipa>
+		<ipa id="12288">gʲi</ipa>
+		<ipa id="12290">ɣʲi</ipa>
+	</char>
+	<char>
+		<kana>グ</kana>
+		<ipa id="0">gɯ</ipa>
+		<ipa id="1">gu</ipa>
+		<ipa id="2">ɣɯ</ipa>
+		<ipa id="3">ɣu</ipa>
+	</char>
+	<char>
+		<kana>ゲ</kana>
+		<ipa id="0">ge</ipa>
+		<ipa id="2">ɣe</ipa>
+	</char>
+	<char>
+		<kana>ゴ</kana>
+		<ipa id="0">go</ipa>
+		<ipa id="2">ɣo</ipa>
+	</char>
+	<char>
+		<kana>ゴァ</kana>
+		<ipa id="0">gɔ</ipa>
+		<ipa id="2">ɣɔ</ipa>
+	</char>
+	<char>
+		<kana>ゲァ</kana>
+		<ipa id="0">gɛ</ipa>
+		<ipa id="2">ɣɛ</ipa>
+	</char>
+	<char>
+		<kana>ガェ</kana>
+		<ipa id="0">gæ</ipa>
+		<ipa id="2">ɣæ</ipa>
+	</char>
+	<char>
+		<kana>ゲォ</kana>
+		<ipa id="0">gø</ipa>
+		<ipa id="2">ɣø</ipa>
+	</char>
+	<char>
+		<kana>ゴェ</kana>
+		<ipa id="0">gœ</ipa>
+		<ipa id="2">ɣœ</ipa>
+	</char>
+
+	<char>
+		<kana>カ゚</kana>
+		<ipa id="0">ŋa</ipa>
+	</char>
+	<char>
+		<kana>キ゚</kana>
+		<ipa id="0">ŋi</ipa>
+		<ipa id="4096">ŋji</ipa>
+		<ipa id="12288">ŋʲi</ipa>
+	</char>
+	<char>
+		<kana>ク゚</kana>
+		<ipa id="0">ŋɯ</ipa>
+		<ipa id="1">ŋu</ipa>
+	</char>
+	<char>
+		<kana>ケ゚</kana>
+		<ipa id="0">ŋe</ipa>
+	</char>
+	<char>
+		<kana>コ゚</kana>
+		<ipa id="0">ŋo</ipa>
+	</char>
+	<char>
+		<kana>コ゚ァ</kana>
+		<ipa id="0">ŋɔ</ipa>
+	</char>
+	<char>
+		<kana>ケ゚ァ</kana>
+		<ipa id="0">ŋɛ</ipa>
+	</char>
+	<char>
+		<kana>カ゚ェ</kana>
+		<ipa id="0">ŋæ</ipa>
+	</char>
+	<char>
+		<kana>ケ゚ォ</kana>
+		<ipa id="0">ŋø</ipa>
+	</char>
+	<char>
+		<kana>コ゚ェ</kana>
+		<ipa id="0">ŋœ</ipa>
+	</char>
+
+	<char>
+		<kana>カ゜</kana>
+		<ipa id="0">ŋa</ipa>
+	</char>
+	<char>
+		<kana>キ゜</kana>
+		<ipa id="0">ŋi</ipa>
+		<ipa id="4096">ŋji</ipa>
+		<ipa id="12288">ŋʲi</ipa>
+	</char>
+	<char>
+		<kana>ク゜</kana>
+		<ipa id="0">ŋɯ</ipa>
+		<ipa id="1">ŋu</ipa>
+	</char>
+	<char>
+		<kana>ケ゜</kana>
+		<ipa id="0">ŋe</ipa>
+	</char>
+	<char>
+		<kana>コ゜</kana>
+		<ipa id="0">ŋo</ipa>
+	</char>
+	<char>
+		<kana>コ゜ァ</kana>
+		<ipa id="0">ŋɔ</ipa>
+	</char>
+	<char>
+		<kana>ケ゜ァ</kana>
+		<ipa id="0">ŋɛ</ipa>
+	</char>
+	<char>
+		<kana>カ゜ェ</kana>
+		<ipa id="0">ŋæ</ipa>
+	</char>
+	<char>
+		<kana>ケ゜ォ</kana>
+		<ipa id="0">ŋø</ipa>
+	</char>
+	<char>
+		<kana>コ゜ェ</kana>
+		<ipa id="0">ŋœ</ipa>
+	</char>
+
+	<char>
+		<kana>サ</kana>
+		<ipa id="0">sa</ipa>
+	</char>
+	<char>
+		<kana>スィ</kana>
+		<ipa id="0">si</ipa>
+	</char>
+	<char>
+		<kana>ス</kana>
+		<ipa id="0">sɯ</ipa>
+		<ipa id="1">su</ipa>
+	</char>
+	<char>
+		<kana>セ</kana>
+		<ipa id="0">se</ipa>
+	</char>
+	<char>
+		<kana>ソ</kana>
+		<ipa id="0">so</ipa>
+	</char>
+	<char>
+		<kana>ソァ</kana>
+		<ipa id="0">sɔ</ipa>
+	</char>
+	<char>
+		<kana>セァ</kana>
+		<ipa id="0">sɛ</ipa>
+	</char>
+	<char>
+		<kana>サェ</kana>
+		<ipa id="0">sæ</ipa>
+	</char>
+	<char>
+		<kana>セォ</kana>
+		<ipa id="0">sø</ipa>
+	</char>
+	<char>
+		<kana>ソェ</kana>
+		<ipa id="0">sœ</ipa>
+	</char>
+
+	<char>
+		<kana>シャ</kana>
+		<ipa id="0">ɕa</ipa>
+		<ipa id="4">ʃa</ipa>
+	</char>
+	<char>
+		<kana>シ</kana>
+		<ipa id="0">ɕi</ipa>
+		<ipa id="4">ʃi</ipa>
+	</char>
+	<char>
+		<kana>シュ</kana>
+		<ipa id="0">ɕɯ</ipa>
+		<ipa id="1">ɕu</ipa>
+		<ipa id="4">ʃɯ</ipa>
+		<ipa id="5">ʃu</ipa>
+	</char>
+	<char>
+		<kana>シェ</kana>
+		<ipa id="0">ɕe</ipa>
+		<ipa id="4">ʃe</ipa>
+	</char>
+	<char>
+		<kana>ショ</kana>
+		<ipa id="0">ɕo</ipa>
+		<ipa id="4">ʃo</ipa>
+	</char>
+	<char>
+		<kana>ショァ</kana>
+		<ipa id="0">ɕɔ</ipa>
+		<ipa id="4">ʃɔ</ipa>
+	</char>
+	<char>
+		<kana>シェァ</kana>
+		<ipa id="0">ɕɛ</ipa>
+		<ipa id="4">ʃɛ</ipa>
+	</char>
+	<char>
+		<kana>シャェ</kana>
+		<ipa id="0">ɕæ</ipa>
+		<ipa id="4">ʃæ</ipa>
+	</char>
+	<char>
+		<kana>シェォ</kana>
+		<ipa id="0">ɕø</ipa>
+		<ipa id="4">ʃø</ipa>
+	</char>
+	<char>
+		<kana>ショェ</kana>
+		<ipa id="0">ɕœ</ipa>
+		<ipa id="4">ʃœ</ipa>
+	</char>
+
+	<char>
+		<kana>ザ</kana>
+		<ipa id="0">dza</ipa>
+		<ipa id="8">za</ipa>
+	</char>
+	<char>
+		<kana>ズィ</kana>
+		<ipa id="0">dzi</ipa>
+		<ipa id="8">zi</ipa>
+	</char>
+	<char>
+		<kana>ズ</kana>
+		<ipa id="0">dzɯ</ipa>
+		<ipa id="1">dzu</ipa>
+		<ipa id="8">zɯ</ipa>
+		<ipa id="9">zu</ipa>
+	</char>
+	<char>
+		<kana>ゼ</kana>
+		<ipa id="0">dze</ipa>
+		<ipa id="8">ze</ipa>
+	</char>
+	<char>
+		<kana>ゾ</kana>
+		<ipa id="0">dzo</ipa>
+		<ipa id="8">zo</ipa>
+	</char>
+	<char>
+		<kana>ゾァ</kana>
+		<ipa id="0">dzɔ</ipa>
+		<ipa id="8">zɔ</ipa>
+	</char>
+	<char>
+		<kana>ゼァ</kana>
+		<ipa id="0">dzɛ</ipa>
+		<ipa id="8">zɛ</ipa>
+	</char>
+	<char>
+		<kana>ザェ</kana>
+		<ipa id="0">dzæ</ipa>
+		<ipa id="8">zæ</ipa>
+	</char>
+	<char>
+		<kana>ゼォ</kana>
+		<ipa id="0">dzø</ipa>
+		<ipa id="8">zø</ipa>
+	</char>
+	<char>
+		<kana>ゾェ</kana>
+		<ipa id="0">dzœ</ipa>
+		<ipa id="2">zœ</ipa>
+	</char>
+
+	<char>
+		<kana>ジャ</kana>
+		<ipa id="0">dʑa</ipa>
+		<ipa id="16">ʑa</ipa>
+		<ipa id="32">dʒa</ipa>
+		<ipa id="48">ʒa</ipa>
+	</char>
+	<char>
+		<kana>ジ</kana>
+		<ipa id="0">dʑi</ipa>
+		<ipa id="16">ʑi</ipa>
+		<ipa id="32">dʒi</ipa>
+		<ipa id="48">ʒi</ipa>
+	</char>
+	<char>
+		<kana>ジュ</kana>
+		<ipa id="0">dʑɯ</ipa>
+		<ipa id="1">dʑu</ipa>
+		<ipa id="16">ʑɯ</ipa>
+		<ipa id="17">ʑu</ipa>
+		<ipa id="32">dʒɯ</ipa>
+		<ipa id="33">dʒu</ipa>
+		<ipa id="48">ʒɯ</ipa>
+		<ipa id="49">ʒu</ipa>
+	</char>
+	<char>
+		<kana>ジェ</kana>
+		<ipa id="0">dʑe</ipa>
+		<ipa id="16">ʑe</ipa>
+		<ipa id="32">dʒe</ipa>
+		<ipa id="48">ʒe</ipa>
+	</char>
+	<char>
+		<kana>ジョ</kana>
+		<ipa id="0">dʑo</ipa>
+		<ipa id="16">ʑo</ipa>
+		<ipa id="32">dʒo</ipa>
+		<ipa id="48">ʒo</ipa>
+	</char>
+	<char>
+		<kana>ジョァ</kana>
+		<ipa id="0">dʑɔ</ipa>
+		<ipa id="16">ʑɔ</ipa>
+		<ipa id="32">dʒɔ</ipa>
+		<ipa id="48">ʒɔ</ipa>
+	</char>
+	<char>
+		<kana>ジェァ</kana>
+		<ipa id="0">dʑɛ</ipa>
+		<ipa id="16">ʑɛ</ipa>
+		<ipa id="32">dʒɛ</ipa>
+		<ipa id="48">ʒɛ</ipa>
+	</char>
+	<char>
+		<kana>ジャェ</kana>
+		<ipa id="0">dʑæ</ipa>
+		<ipa id="16">ʑæ</ipa>
+		<ipa id="32">dʒæ</ipa>
+		<ipa id="48">ʒæ</ipa>
+	</char>
+	<char>
+		<kana>ジェォ</kana>
+		<ipa id="0">dʑø</ipa>
+		<ipa id="16">ʑø</ipa>
+		<ipa id="32">dʒø</ipa>
+		<ipa id="48">ʒø</ipa>
+	</char>
+	<char>
+		<kana>ジョェ</kana>
+		<ipa id="0">dʑœ</ipa>
+		<ipa id="16">ʑœ</ipa>
+		<ipa id="32">dʒœ</ipa>
+		<ipa id="48">ʒœ</ipa>
+	</char>
+
+	<char>
+		<kana>ヂ</kana>
+		<ipa id="0">dʑi</ipa>
+	</char>
+	<char>
+		<kana>ヅ</kana>
+		<ipa id="0">dzɯ</ipa>
+		<ipa id="1">dzu</ipa>		
+	</char>
+
+	<char>
+		<kana>タ</kana>
+		<ipa id="0">ta</ipa>
+	</char>
+	<char>
+		<kana>ティ</kana>
+		<ipa id="0">ti</ipa>
+		<ipa id="4096">tji</ipa>
+		<ipa id="12288">tʲi</ipa>
+	</char>
+	<char>
+		<kana>トゥ</kana>
+		<ipa id="0">tɯ</ipa>
+		<ipa id="1">tu</ipa>
+	</char>
+	<char>
+		<kana>テ</kana>
+		<ipa id="0">te</ipa>
+	</char>
+	<char>
+		<kana>ト</kana>
+		<ipa id="0">to</ipa>
+	</char>
+	<char>
+		<kana>トァ</kana>
+		<ipa id="0">tɔ</ipa>
+	</char>
+	<char>
+		<kana>テァ</kana>
+		<ipa id="0">tɛ</ipa>
+	</char>
+	<char>
+		<kana>タェ</kana>
+		<ipa id="0">tæ</ipa>
+	</char>
+	<char>
+		<kana>テォ</kana>
+		<ipa id="0">tø</ipa>
+	</char>
+	<char>
+		<kana>トェ</kana>
+		<ipa id="0">tœ</ipa>
+	</char>
+
+	<char>
+		<kana>ダ</kana>
+		<ipa id="0">da</ipa>
+	</char>
+	<char>
+		<kana>ディ</kana>
+		<ipa id="0">di</ipa>
+		<ipa id="4096">dji</ipa>
+		<ipa id="12288">dʲi</ipa>
+	</char>
+	<char>
+		<kana>ドゥ</kana>
+		<ipa id="0">dɯ</ipa>
+		<ipa id="1">du</ipa>
+	</char>
+	<char>
+		<kana>デ</kana>
+		<ipa id="0">de</ipa>
+	</char>
+	<char>
+		<kana>ド</kana>
+		<ipa id="0">do</ipa>
+	</char>
+	<char>
+		<kana>ドァ</kana>
+		<ipa id="0">dɔ</ipa>
+	</char>
+	<char>
+		<kana>デァ</kana>
+		<ipa id="0">dɛ</ipa>
+	</char>
+	<char>
+		<kana>ダェ</kana>
+		<ipa id="0">dæ</ipa>
+	</char>
+	<char>
+		<kana>デォ</kana>
+		<ipa id="0">dø</ipa>
+	</char>
+	<char>
+		<kana>ドェ</kana>
+		<ipa id="0">dœ</ipa>
+	</char>
+
+	<char>
+		<kana>ツァ</kana>
+		<ipa id="0">tsa</ipa>
+	</char>
+	<char>
+		<kana>ツィ</kana>
+		<ipa id="0">tsi</ipa>
+	</char>
+	<char>
+		<kana>ツ</kana>
+		<ipa id="0">tsɯ</ipa>
+		<ipa id="1">tsu</ipa>
+	</char>
+	<char>
+		<kana>ツェ</kana>
+		<ipa id="0">tse</ipa>
+	</char>
+	<char>
+		<kana>ツォ</kana>
+		<ipa id="0">tso</ipa>
+	</char>
+	<char>
+		<kana>ツォァ</kana>
+		<ipa id="0">tsɔ</ipa>
+	</char>
+	<char>
+		<kana>ツェァ</kana>
+		<ipa id="0">tsɛ</ipa>
+	</char>
+	<char>
+		<kana>ツァェ</kana>
+		<ipa id="0">tsæ</ipa>
+	</char>
+	<char>
+		<kana>ツェォ</kana>
+		<ipa id="0">tsø</ipa>
+	</char>
+	<char>
+		<kana>ツォェ</kana>
+		<ipa id="0">tsœ</ipa>
+	</char>
+
+	<char>
+		<kana>チャ</kana>
+		<ipa id="0">tɕa</ipa>
+		<ipa id="64">tʃa</ipa>
+	</char>
+	<char>
+		<kana>チ</kana>
+		<ipa id="0">tɕi</ipa>
+		<ipa id="64">tʃi</ipa>
+	</char>
+	<char>
+		<kana>チュ</kana>
+		<ipa id="0">tɕɯ</ipa>
+		<ipa id="1">tɕu</ipa>
+		<ipa id="64">tʃɯ</ipa>
+		<ipa id="65">tʃu</ipa>
+	</char>
+	<char>
+		<kana>チェ</kana>
+		<ipa id="0">tɕe</ipa>
+		<ipa id="64">tʃe</ipa>
+	</char>
+	<char>
+		<kana>チョ</kana>
+		<ipa id="0">tɕo</ipa>
+		<ipa id="64">tʃo</ipa>
+	</char>
+	<char>
+		<kana>チョァ</kana>
+		<ipa id="0">tɕɔ</ipa>
+		<ipa id="64">tʃɔ</ipa>
+	</char>
+	<char>
+		<kana>チェァ</kana>
+		<ipa id="0">tɕɛ</ipa>
+		<ipa id="64">tʃɛ</ipa>
+	</char>
+	<char>
+		<kana>チャェ</kana>
+		<ipa id="0">tɕæ</ipa>
+		<ipa id="64">tʃæ</ipa>
+	</char>
+	<char>
+		<kana>チェォ</kana>
+		<ipa id="0">tɕø</ipa>
+		<ipa id="64">tʃø</ipa>
+	</char>
+	<char>
+		<kana>チョェ</kana>
+		<ipa id="0">tɕœ</ipa>
+		<ipa id="64">tʃœ</ipa>
+	</char>
+
+	<char>
+		<kana>ナ</kana>
+		<ipa id="0">na</ipa>
+	</char>
+	<char>
+		<kana>ヌ</kana>
+		<ipa id="0">nɯ</ipa>
+		<ipa id="1">nu</ipa>
+	</char>
+	<char>
+		<kana>ネ</kana>
+		<ipa id="0">ne</ipa>
+	</char>
+	<char>
+		<kana>ノ</kana>
+		<ipa id="0">no</ipa>
+	</char>
+	<char>
+		<kana>ノァ</kana>
+		<ipa id="0">nɔ</ipa>
+	</char>
+	<char>
+		<kana>ネァ</kana>
+		<ipa id="0">nɛ</ipa>
+	</char>
+	<char>
+		<kana>ナェ</kana>
+		<ipa id="0">næ</ipa>
+	</char>
+	<char>
+		<kana>ネォ</kana>
+		<ipa id="0">nø</ipa>
+	</char>
+	<char>
+		<kana>ノェ</kana>
+		<ipa id="0">nœ</ipa>
+	</char>
+
+	<char>
+		<kana>ニャ</kana>
+		<ipa id="0">ɲa</ipa>
+		<ipa id="2048">nja</ipa>
+		<ipa id="10240">nʲa</ipa>
+	</char>
+	<char>
+		<kana>ニ</kana>
+		<ipa id="0">ɲi</ipa>
+		<ipa id="2048">nji</ipa>
+		<ipa id="10240">nʲi</ipa>
+	</char>
+	<char>
+		<kana>ニュ</kana>
+		<ipa id="0">ɲɯ</ipa>
+		<ipa id="1">ɲu</ipa>
+		<ipa id="2048">njɯ</ipa>
+		<ipa id="2049">nju</ipa>
+		<ipa id="10240">nʲɯ</ipa>
+		<ipa id="10241">nʲu</ipa>
+	</char>
+	<char>
+		<kana>ニェ</kana>
+		<ipa id="0">ɲe</ipa>
+		<ipa id="2048">nje</ipa>
+		<ipa id="10240">nʲe</ipa>
+	</char>
+	<char>
+		<kana>ニョ</kana>
+		<ipa id="0">ɲo</ipa>
+		<ipa id="2048">njo</ipa>
+		<ipa id="10240">nʲo</ipa>
+	</char>
+	<char>
+		<kana>ニョァ</kana>
+		<ipa id="0">ɲɔ</ipa>
+		<ipa id="2048">njɔ</ipa>
+		<ipa id="10240">nʲɔ</ipa>
+	</char>
+	<char>
+		<kana>ニェァ</kana>
+		<ipa id="0">ɲɛ</ipa>
+		<ipa id="2048">njɛ</ipa>
+		<ipa id="10240">nʲɛ</ipa>
+	</char>
+	<char>
+		<kana>ニャェ</kana>
+		<ipa id="0">ɲæ</ipa>
+		<ipa id="2048">njæ</ipa>
+		<ipa id="10240">nʲæ</ipa>
+	</char>
+	<char>
+		<kana>ニェォ</kana>
+		<ipa id="0">ɲø</ipa>
+		<ipa id="2048">njø</ipa>
+		<ipa id="10240">nʲø</ipa>
+	</char>
+	<char>
+		<kana>ニョェ</kana>
+		<ipa id="0">ɲœ</ipa>
+		<ipa id="2048">njœ</ipa>
+		<ipa id="10240">nʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ハ</kana>
+		<ipa id="0">ha</ipa>
+	</char>
+	<char>
+		<kana>ヘ</kana>
+		<ipa id="0">he</ipa>
+	</char>
+	<char>
+		<kana>ホ</kana>
+		<ipa id="0">ho</ipa>
+	</char>
+	<char>
+		<kana>ホァ</kana>
+		<ipa id="0">hɔ</ipa>
+	</char>
+	<char>
+		<kana>ヘァ</kana>
+		<ipa id="0">hɛ</ipa>
+	</char>
+	<char>
+		<kana>ハェ</kana>
+		<ipa id="0">hæ</ipa>
+	</char>
+	<char>
+		<kana>ヘォ</kana>
+		<ipa id="0">hø</ipa>
+	</char>
+	<char>
+		<kana>ホェ</kana>
+		<ipa id="0">hœ</ipa>
+	</char>
+
+	<char>
+		<kana>ヒャ</kana>
+		<ipa id="0">ça</ipa>
+	</char>
+	<char>
+		<kana>ヒ</kana>
+		<ipa id="0">çi</ipa>
+	</char>
+	<char>
+		<kana>ヒュ</kana>
+		<ipa id="0">çɯ</ipa>
+		<ipa id="1">çu</ipa>
+	</char>
+	<char>
+		<kana>ヒェ</kana>
+		<ipa id="0">çe</ipa>
+	</char>
+	<char>
+		<kana>ヒョ</kana>
+		<ipa id="0">ço</ipa>
+	</char>
+	<char>
+		<kana>ヒョァ</kana>
+		<ipa id="0">çɔ</ipa>
+	</char>
+	<char>
+		<kana>ヒェァ</kana>
+		<ipa id="0">çɛ</ipa>
+	</char>
+	<char>
+		<kana>ヒャェ</kana>
+		<ipa id="0">çæ</ipa>
+	</char>
+	<char>
+		<kana>ヒェォ</kana>
+		<ipa id="0">çø</ipa>
+	</char>
+	<char>
+		<kana>ヒョェ</kana>
+		<ipa id="0">çœ</ipa>
+	</char>
+
+	<char>
+		<kana>ファ</kana>
+		<ipa id="0">ɸa</ipa>
+	</char>
+	<char>
+		<kana>フィ</kana>
+		<ipa id="0">ɸi</ipa>
+		<ipa id="4096">ɸji</ipa>
+		<ipa id="12288">ɸʲi</ipa>
+	</char>
+	<char>
+		<kana>フ</kana>
+		<ipa id="0">ɸɯ</ipa>
+		<ipa id="1">ɸu</ipa>
+	</char>
+	<char>
+		<kana>フェ</kana>
+		<ipa id="0">ɸe</ipa>
+	</char>
+	<char>
+		<kana>フォ</kana>
+		<ipa id="0">ɸo</ipa>
+	</char>
+	<char>
+		<kana>フォァ</kana>
+		<ipa id="0">ɸɔ</ipa>
+	</char>
+	<char>
+		<kana>フェァ</kana>
+		<ipa id="0">ɸɛ</ipa>
+	</char>
+	<char>
+		<kana>ファェ</kana>
+		<ipa id="0">ɸæ</ipa>
+	</char>
+	<char>
+		<kana>フェォ</kana>
+		<ipa id="0">ɸø</ipa>
+	</char>
+	<char>
+		<kana>フォェ</kana>
+		<ipa id="0">ɸœ</ipa>
+	</char>
+
+	<char>
+		<kana>バ</kana>
+		<ipa id="0">ba</ipa>
+	</char>
+	<char>
+		<kana>ビ</kana>
+		<ipa id="0">bi</ipa>
+		<ipa id="4096">bji</ipa>
+		<ipa id="12288">bʲi</ipa>
+	</char>
+	<char>
+		<kana>ブ</kana>
+		<ipa id="0">bɯ</ipa>
+		<ipa id="1">bu</ipa>
+	</char>
+	<char>
+		<kana>ベ</kana>
+		<ipa id="0">be</ipa>
+	</char>
+	<char>
+		<kana>ボ</kana>
+		<ipa id="0">bo</ipa>
+	</char>
+	<char>
+		<kana>ボァ</kana>
+		<ipa id="0">bɔ</ipa>
+	</char>
+	<char>
+		<kana>ベァ</kana>
+		<ipa id="0">bɛ</ipa>
+	</char>
+	<char>
+		<kana>バェ</kana>
+		<ipa id="0">bæ</ipa>
+	</char>
+	<char>
+		<kana>ベォ</kana>
+		<ipa id="0">bø</ipa>
+	</char>
+	<char>
+		<kana>ボェ</kana>
+		<ipa id="0">bœ</ipa>
+	</char>
+
+	<char>
+		<kana>パ</kana>
+		<ipa id="0">pa</ipa>
+	</char>
+	<char>
+		<kana>ピ</kana>
+		<ipa id="0">pi</ipa>
+		<ipa id="4096">pji</ipa>
+		<ipa id="12288">pʲi</ipa>
+	</char>
+	<char>
+		<kana>プ</kana>
+		<ipa id="0">pɯ</ipa>
+		<ipa id="1">pu</ipa>
+	</char>
+	<char>
+		<kana>ペ</kana>
+		<ipa id="0">pe</ipa>
+	</char>
+	<char>
+		<kana>ポ</kana>
+		<ipa id="0">po</ipa>
+	</char>
+	<char>
+		<kana>ポァ</kana>
+		<ipa id="0">pɔ</ipa>
+	</char>
+	<char>
+		<kana>ペァ</kana>
+		<ipa id="0">pɛ</ipa>
+	</char>
+	<char>
+		<kana>パェ</kana>
+		<ipa id="0">pæ</ipa>
+	</char>
+	<char>
+		<kana>ペォ</kana>
+		<ipa id="0">pø</ipa>
+	</char>
+	<char>
+		<kana>ポェ</kana>
+		<ipa id="0">pœ</ipa>
+	</char>
+
+	<char>
+		<kana>マ</kana>
+		<ipa id="0">ma</ipa>
+	</char>
+	<char>
+		<kana>ミ</kana>
+		<ipa id="0">mi</ipa>
+		<ipa id="4096">mji</ipa>
+		<ipa id="12288">mʲi</ipa>
+	</char>
+	<char>
+		<kana>ム</kana>
+		<ipa id="0">mɯ</ipa>
+		<ipa id="1">mu</ipa>
+	</char>
+	<char>
+		<kana>メ</kana>
+		<ipa id="0">me</ipa>
+	</char>
+	<char>
+		<kana>モ</kana>
+		<ipa id="0">mo</ipa>
+	</char>
+	<char>
+		<kana>モァ</kana>
+		<ipa id="0">mɔ</ipa>
+	</char>
+	<char>
+		<kana>メァ</kana>
+		<ipa id="0">mɛ</ipa>
+	</char>
+	<char>
+		<kana>マェ</kana>
+		<ipa id="0">mæ</ipa>
+	</char>
+	<char>
+		<kana>メォ</kana>
+		<ipa id="0">mø</ipa>
+	</char>
+	<char>
+		<kana>モェ</kana>
+		<ipa id="0">mœ</ipa>
+	</char>
+
+	<char>
+		<kana>ラ</kana>
+		<ipa id="0">ɾa</ipa>
+		<ipa id="128">ra</ipa>
+	</char>
+	<char>
+		<kana>リ</kana>
+		<ipa id="0">ɾi</ipa>
+		<ipa id="128">ri</ipa>
+		<ipa id="4096">ɾji</ipa>
+		<ipa id="4224">rji</ipa>
+		<ipa id="12288">ɾʲi</ipa>
+		<ipa id="12416">rʲi</ipa>
+	</char>
+	<char>
+		<kana>ル</kana>
+		<ipa id="0">ɾɯ</ipa>
+		<ipa id="1">ɾu</ipa>
+		<ipa id="128">rɯ</ipa>
+		<ipa id="129">ru</ipa>
+	</char>
+	<char>
+		<kana>レ</kana>
+		<ipa id="0">ɾe</ipa>
+		<ipa id="128">re</ipa>
+	</char>
+	<char>
+		<kana>ロ</kana>
+		<ipa id="0">ɾo</ipa>
+		<ipa id="128">ro</ipa>
+	</char>
+	<char>
+		<kana>ロァ</kana>
+		<ipa id="0">ɾɔ</ipa>
+		<ipa id="128">rɔ</ipa>
+	</char>
+	<char>
+		<kana>レァ</kana>
+		<ipa id="0">ɾɛ</ipa>
+		<ipa id="128">rɛ</ipa>
+	</char>
+	<char>
+		<kana>ラェ</kana>
+		<ipa id="0">ɾæ</ipa>
+		<ipa id="128">ræ</ipa>
+	</char>
+	<char>
+		<kana>レォ</kana>
+		<ipa id="0">ɾø</ipa>
+		<ipa id="128">rø</ipa>
+	</char>
+	<char>
+		<kana>ロェ</kana>
+		<ipa id="0">ɾœ</ipa>
+		<ipa id="128">rœ</ipa>
+	</char>
+
+	<char>
+		<kana>ヤ</kana>
+		<ipa id="0">ja</ipa>
+	</char>
+	<char>
+		<kana>ユ</kana>
+		<ipa id="0">jɯ</ipa>
+		<ipa id="1">ju</ipa>
+	</char>
+	<char>
+		<kana>イェ</kana>
+		<ipa id="0">je</ipa>
+	</char>
+	<char>
+		<kana>ヨ</kana>
+		<ipa id="0">jo</ipa>
+	</char>
+	<char>
+		<kana>ヨァ</kana>
+		<ipa id="0">jɔ</ipa>
+	</char>
+	<char>
+		<kana>イェァ</kana>
+		<ipa id="0">jɛ</ipa>
+	</char>
+	<char>
+		<kana>ヤェ</kana>
+		<ipa id="0">jæ</ipa>
+	</char>
+	<char>
+		<kana>イェォ</kana>
+		<ipa id="0">jø</ipa>
+	</char>
+	<char>
+		<kana>ヨェ</kana>
+		<ipa id="0">jœ</ipa>
+	</char>
+
+	<char>
+		<kana>キャ</kana>
+		<ipa id="0">kja</ipa>
+		<ipa id="8192">kʲi</ipa>
+	</char>
+	<char>
+		<kana>キュ</kana>
+		<ipa id="0">kjɯ</ipa>
+		<ipa id="1">kju</ipa>
+		<ipa id="8192">kʲɯ</ipa>
+		<ipa id="8193">kʲu</ipa>
+	</char>
+	<char>
+		<kana>キェ</kana>
+		<ipa id="0">kje</ipa>
+		<ipa id="8192">kʲe</ipa>
+	</char>
+	<char>
+		<kana>キョ</kana>
+		<ipa id="0">kjo</ipa>
+		<ipa id="8192">kʲo</ipa>
+	</char>
+	<char>
+		<kana>キョァ</kana>
+		<ipa id="0">kjɔ</ipa>
+		<ipa id="8192">kʲɔ</ipa>
+	</char>
+	<char>
+		<kana>キェァ</kana>
+		<ipa id="0">kjɛ</ipa>
+		<ipa id="8192">kʲɛ</ipa>
+	</char>
+	<char>
+		<kana>キャェ</kana>
+		<ipa id="0">kjæ</ipa>
+		<ipa id="8192">kʲæ</ipa>
+	</char>
+	<char>
+		<kana>キェォ</kana>
+		<ipa id="0">kjø</ipa>
+		<ipa id="8192">kʲø</ipa>
+	</char>
+	<char>
+		<kana>キョェ</kana>
+		<ipa id="0">kjœ</ipa>
+		<ipa id="8192">kʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ギャ</kana>
+		<ipa id="0">gja</ipa>
+		<ipa id="2">ɣja</ipa>
+		<ipa id="8192">gʲi</ipa>
+		<ipa id="8194">ɣʲi</ipa>
+	</char>
+	<char>
+		<kana>ギュ</kana>
+		<ipa id="0">gjɯ</ipa>
+		<ipa id="1">gju</ipa>
+		<ipa id="2">ɣjɯ</ipa>
+		<ipa id="3">ɣju</ipa>
+		<ipa id="8192">gʲɯ</ipa>
+		<ipa id="8193">gʲu</ipa>
+		<ipa id="8194">ɣʲɯ</ipa>
+		<ipa id="8195">ɣʲu</ipa>
+	</char>
+	<char>
+		<kana>ギェ</kana>
+		<ipa id="0">gje</ipa>
+		<ipa id="2">ɣje</ipa>
+		<ipa id="8192">gʲe</ipa>
+		<ipa id="8194">ɣʲe</ipa>
+	</char>
+	<char>
+		<kana>ギョ</kana>
+		<ipa id="0">gjo</ipa>
+		<ipa id="2">ɣjo</ipa>
+		<ipa id="8192">gʲo</ipa>
+		<ipa id="8194">ɣʲo</ipa>
+	</char>
+	<char>
+		<kana>ギョァ</kana>
+		<ipa id="0">gjɔ</ipa>
+		<ipa id="2">ɣjɔ</ipa>
+		<ipa id="8192">gʲɔ</ipa>
+		<ipa id="8194">ɣʲɔ</ipa>
+	</char>
+	<char>
+		<kana>ギェァ</kana>
+		<ipa id="0">gjɛ</ipa>
+		<ipa id="2">ɣjɛ</ipa>
+		<ipa id="8192">gʲɛ</ipa>
+		<ipa id="8194">ɣʲɛ</ipa>
+	</char>
+	<char>
+		<kana>ギャェ</kana>
+		<ipa id="0">gjæ</ipa>
+		<ipa id="2">ɣjæ</ipa>
+		<ipa id="8192">gʲæ</ipa>
+		<ipa id="8194">ɣʲæ</ipa>
+	</char>
+	<char>
+		<kana>ギェォ</kana>
+		<ipa id="0">gjø</ipa>
+		<ipa id="2">ɣjø</ipa>
+		<ipa id="8192">gʲø</ipa>
+		<ipa id="8194">ɣʲø</ipa>
+	</char>
+	<char>
+		<kana>ギョェ</kana>
+		<ipa id="0">gjœ</ipa>
+		<ipa id="2">ɣjœ</ipa>
+		<ipa id="8192">gʲœ</ipa>
+		<ipa id="8194">ɣʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>キ゚ャ</kana>
+		<ipa id="0">ŋja</ipa>
+		<ipa id="8192">ŋʲi</ipa>
+	</char>
+	<char>
+		<kana>キ゚ュ</kana>
+		<ipa id="0">ŋjɯ</ipa>
+		<ipa id="1">ŋju</ipa>
+		<ipa id="8192">ŋʲɯ</ipa>
+		<ipa id="8193">ŋʲu</ipa>
+	</char>
+	<char>
+		<kana>キ゚ェ</kana>
+		<ipa id="0">ŋje</ipa>
+		<ipa id="8192">ŋʲe</ipa>
+	</char>
+	<char>
+		<kana>キ゚ョ</kana>
+		<ipa id="0">ŋjo</ipa>
+		<ipa id="8192">ŋʲo</ipa>
+	</char>
+	<char>
+		<kana>キ゚ョァ</kana>
+		<ipa id="0">ŋjɔ</ipa>
+		<ipa id="8192">ŋʲɔ</ipa>
+	</char>
+	<char>
+		<kana>キ゚ェァ</kana>
+		<ipa id="0">ŋjɛ</ipa>
+		<ipa id="8192">ŋʲɛ</ipa>
+	</char>
+	<char>
+		<kana>キ゚ャェ</kana>
+		<ipa id="0">ŋjæ</ipa>
+		<ipa id="8192">ŋʲæ</ipa>
+	</char>
+	<char>
+		<kana>キ゚ェォ</kana>
+		<ipa id="0">ŋjø</ipa>
+		<ipa id="8192">ŋʲø</ipa>
+	</char>
+	<char>
+		<kana>キ゚ョェ</kana>
+		<ipa id="0">ŋjœ</ipa>
+		<ipa id="8192">ŋʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>キ゜ャ</kana>
+		<ipa id="0">ŋja</ipa>
+		<ipa id="8192">ŋʲi</ipa>
+	</char>
+	<char>
+		<kana>キ゜ュ</kana>
+		<ipa id="0">ŋjɯ</ipa>
+		<ipa id="1">ŋju</ipa>
+		<ipa id="8192">ŋʲɯ</ipa>
+		<ipa id="8193">ŋʲu</ipa>
+	</char>
+	<char>
+		<kana>キ゜ェ</kana>
+		<ipa id="0">ŋje</ipa>
+		<ipa id="8192">ŋʲe</ipa>
+	</char>
+	<char>
+		<kana>キ゜ョ</kana>
+		<ipa id="0">ŋjo</ipa>
+		<ipa id="8192">ŋʲo</ipa>
+	</char>
+	<char>
+		<kana>キ゜ョァ</kana>
+		<ipa id="0">ŋjɔ</ipa>
+		<ipa id="8192">ŋʲɔ</ipa>
+	</char>
+	<char>
+		<kana>キ゜ェァ</kana>
+		<ipa id="0">ŋjɛ</ipa>
+		<ipa id="8192">ŋʲɛ</ipa>
+	</char>
+	<char>
+		<kana>キ゜ャェ</kana>
+		<ipa id="0">ŋjæ</ipa>
+		<ipa id="8192">ŋʲæ</ipa>
+	</char>
+	<char>
+		<kana>キ゜ェォ</kana>
+		<ipa id="0">ŋjø</ipa>
+		<ipa id="8192">ŋʲø</ipa>
+	</char>
+	<char>
+		<kana>キ゜ョェ</kana>
+		<ipa id="0">ŋjœ</ipa>
+		<ipa id="8192">ŋʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ビャ</kana>
+		<ipa id="0">bja</ipa>
+		<ipa id="8192">bʲa</ipa>
+	</char>
+	<char>
+		<kana>ビュ</kana>
+		<ipa id="0">bjɯ</ipa>
+		<ipa id="1">bju</ipa>
+		<ipa id="8192">bʲɯ</ipa>
+		<ipa id="8193">bʲu</ipa>
+	</char>
+	<char>
+		<kana>ビェ</kana>
+		<ipa id="0">bje</ipa>
+		<ipa id="8192">bʲe</ipa>
+	</char>
+	<char>
+		<kana>ビョ</kana>
+		<ipa id="0">bjo</ipa>
+		<ipa id="8192">bʲo</ipa>
+	</char>
+	<char>
+		<kana>ビョァ</kana>
+		<ipa id="0">bjɔ</ipa>
+		<ipa id="8192">bʲɔ</ipa>
+	</char>
+	<char>
+		<kana>ビェァ</kana>
+		<ipa id="0">bjɛ</ipa>
+		<ipa id="8192">bʲɛ</ipa>
+	</char>
+	<char>
+		<kana>ビャェ</kana>
+		<ipa id="0">bjæ</ipa>
+		<ipa id="8192">bʲæ</ipa>
+	</char>
+	<char>
+		<kana>ビェォ</kana>
+		<ipa id="0">bjø</ipa>
+		<ipa id="8192">bʲø</ipa>
+	</char>
+	<char>
+		<kana>ビョェ</kana>
+		<ipa id="0">bjœ</ipa>
+		<ipa id="8192">bʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ピャ</kana>
+		<ipa id="0">pja</ipa>
+		<ipa id="8192">pʲa</ipa>
+	</char>
+	<char>
+		<kana>ピュ</kana>
+		<ipa id="0">pjɯ</ipa>
+		<ipa id="1">pju</ipa>
+		<ipa id="8192">pʲɯ</ipa>
+		<ipa id="8193">pʲu</ipa>
+	</char>
+	<char>
+		<kana>ピェ</kana>
+		<ipa id="0">pje</ipa>
+		<ipa id="8192">pʲe</ipa>
+	</char>
+	<char>
+		<kana>ピョ</kana>
+		<ipa id="0">pjo</ipa>
+		<ipa id="8192">pʲo</ipa>
+	</char>
+	<char>
+		<kana>ピョァ</kana>
+		<ipa id="0">pjɔ</ipa>
+		<ipa id="8192">pʲɔ</ipa>
+	</char>
+	<char>
+		<kana>ピェァ</kana>
+		<ipa id="0">pjɛ</ipa>
+		<ipa id="8192">pʲɛ</ipa>
+	</char>
+	<char>
+		<kana>ピャェ</kana>
+		<ipa id="0">pjæ</ipa>
+		<ipa id="8192">pʲæ</ipa>
+	</char>
+	<char>
+		<kana>ピェォ</kana>
+		<ipa id="0">pjø</ipa>
+		<ipa id="8192">pʲø</ipa>
+	</char>
+	<char>
+		<kana>ピョェ</kana>
+		<ipa id="0">pjœ</ipa>
+		<ipa id="8192">pʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ミャ</kana>
+		<ipa id="0">mja</ipa>
+		<ipa id="8192">mʲa</ipa>
+	</char>
+	<char>
+		<kana>ミュ</kana>
+		<ipa id="0">mjɯ</ipa>
+		<ipa id="1">mju</ipa>
+		<ipa id="8192">mʲɯ</ipa>
+		<ipa id="8193">mʲu</ipa>
+	</char>
+	<char>
+		<kana>ミェ</kana>
+		<ipa id="0">mje</ipa>
+		<ipa id="8192">mʲe</ipa>
+	</char>
+	<char>
+		<kana>ミョ</kana>
+		<ipa id="0">mjo</ipa>
+		<ipa id="8192">mʲo</ipa>
+	</char>
+	<char>
+		<kana>ミョァ</kana>
+		<ipa id="0">mjɔ</ipa>
+		<ipa id="8192">mʲɔ</ipa>
+	</char>
+	<char>
+		<kana>ミェァ</kana>
+		<ipa id="0">mjɛ</ipa>
+		<ipa id="8192">mʲɛ</ipa>
+	</char>
+	<char>
+		<kana>ミャェ</kana>
+		<ipa id="0">mjæ</ipa>
+		<ipa id="8192">mʲæ</ipa>
+	</char>
+	<char>
+		<kana>ミェォ</kana>
+		<ipa id="0">mjø</ipa>
+		<ipa id="8192">mʲø</ipa>
+	</char>
+	<char>
+		<kana>ミョェ</kana>
+		<ipa id="0">mjœ</ipa>
+		<ipa id="8192">mʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>リャ</kana>
+		<ipa id="0">ɾja</ipa>
+		<ipa id="128">rja</ipa>
+		<ipa id="8192">ɾʲa</ipa>
+		<ipa id="8320">rʲa</ipa>
+	</char>
+	<char>
+		<kana>リュ</kana>
+		<ipa id="0">ɾjɯ</ipa>
+		<ipa id="1">ɾju</ipa>
+		<ipa id="128">rjɯ</ipa>
+		<ipa id="129">rju</ipa>
+		<ipa id="8192">ɾʲɯ</ipa>
+		<ipa id="8193">ɾʲu</ipa>
+		<ipa id="8320">rʲɯ</ipa>
+		<ipa id="8321">rʲu</ipa>
+	</char>
+	<char>
+		<kana>リェ</kana>
+		<ipa id="0">ɾje</ipa>
+		<ipa id="128">rje</ipa>
+		<ipa id="8192">ɾʲe</ipa>
+		<ipa id="8320">rʲe</ipa>
+	</char>
+	<char>
+		<kana>リョ</kana>
+		<ipa id="0">ɾjo</ipa>
+		<ipa id="128">rjo</ipa>
+		<ipa id="8192">ɾʲo</ipa>
+		<ipa id="8320">rʲo</ipa>
+	</char>
+	<char>
+		<kana>リョァ</kana>
+		<ipa id="0">ɾjɔ</ipa>
+		<ipa id="128">rjɔ</ipa>
+		<ipa id="8192">ɾʲɔ</ipa>
+		<ipa id="8320">rʲɔ</ipa>
+	</char>
+	<char>
+		<kana>リェァ</kana>
+		<ipa id="0">ɾjɛ</ipa>
+		<ipa id="128">rjɛ</ipa>
+		<ipa id="8192">ɾʲɛ</ipa>
+		<ipa id="8320">rʲɛ</ipa>
+	</char>
+	<char>
+		<kana>リャェ</kana>
+		<ipa id="0">ɾjæ</ipa>
+		<ipa id="128">rjæ</ipa>
+		<ipa id="8192">ɾʲæ</ipa>
+		<ipa id="8320">rʲæ</ipa>
+	</char>
+	<char>
+		<kana>リェォ</kana>
+		<ipa id="0">ɾjø</ipa>
+		<ipa id="128">rjø</ipa>
+		<ipa id="8192">ɾʲø</ipa>
+		<ipa id="8320">rʲø</ipa>
+	</char>
+	<char>
+		<kana>リョェ</kana>
+		<ipa id="0">ɾjœ</ipa>
+		<ipa id="128">rjœ</ipa>
+		<ipa id="8192">ɾʲœ</ipa>
+		<ipa id="8320">rʲœ</ipa>
+	</char>
+
+	<char>
+		<kana>ワ</kana>
+		<ipa id="0">wa</ipa>
+		<ipa id="32768">ɰa</ipa>
+	</char>
+	<char>
+		<kana>ウィ</kana>
+		<ipa id="0">wi</ipa>
+		<ipa id="4096">wji</ipa>
+		<ipa id="12288">wʲi</ipa>
+		<ipa id="32768">ɰi</ipa>
+		<ipa id="36864">ɰji</ipa>
+		<ipa id="45056">ɰʲi</ipa>
+	</char>
+	<char>
+		<kana>ウェ</kana>
+		<ipa id="0">we</ipa>
+		<ipa id="32768">ɰe</ipa>
+	</char>
+	<char>
+		<kana>ウォ</kana>
+		<ipa id="0">wo</ipa>
+		<ipa id="32768">ɰo</ipa>
+	</char>
+	<char>
+		<kana>ウォァ</kana>
+		<ipa id="0">wɔ</ipa>
+		<ipa id="32768">ɰɔ</ipa>
+	</char>
+	<char>
+		<kana>ウェァ</kana>
+		<ipa id="0">wɛ</ipa>
+		<ipa id="32768">ɰɛ</ipa>
+	</char>
+	<char>
+		<kana>ワェ</kana>
+		<ipa id="0">wæ</ipa>
+		<ipa id="32768">ɰæ</ipa>
+	</char>
+	<char>
+		<kana>ウェォ</kana>
+		<ipa id="0">wø</ipa>
+		<ipa id="32768">ɰø</ipa>
+	</char>
+	<char>
+		<kana>ウォェ</kana>
+		<ipa id="0">wœ</ipa>
+		<ipa id="32768">ɰœ</ipa>
+	</char>
+
+	<char>
+		<kana>クヮ</kana>
+		<ipa id="0">kwa</ipa>
+		<ipa id="16384">kʷa</ipa>
+	</char>
+	<char>
+		<kana>クィ</kana>
+		<ipa id="0">kwi</ipa>
+		<ipa id="4096">kwji</ipa>
+		<ipa id="12288">kwʲi</ipa>
+		<ipa id="16384">kʷi</ipa>
+		<ipa id="20480">kʷji</ipa>
+		<ipa id="28672">kʷʲi</ipa>
+	</char>
+	<char>
+		<kana>クェ</kana>
+		<ipa id="0">kwe</ipa>
+		<ipa id="16384">kʷe</ipa>
+	</char>
+	<char>
+		<kana>クォ</kana>
+		<ipa id="0">kwo</ipa>
+		<ipa id="16384">kʷo</ipa>
+	</char>
+	<char>
+		<kana>クォァ</kana>
+		<ipa id="0">kwɔ</ipa>
+		<ipa id="16384">kʷɔ</ipa>
+	</char>
+	<char>
+		<kana>クェァ</kana>
+		<ipa id="0">kwɛ</ipa>
+		<ipa id="16384">kʷɛ</ipa>
+	</char>
+	<char>
+		<kana>クヮェ</kana>
+		<ipa id="0">kwæ</ipa>
+		<ipa id="16384">kʷæ</ipa>
+	</char>
+	<char>
+		<kana>クェォ</kana>
+		<ipa id="0">kwø</ipa>
+		<ipa id="16384">kʷø</ipa>
+	</char>
+	<char>
+		<kana>クォェ</kana>
+		<ipa id="0">kwœ</ipa>
+		<ipa id="16384">kʷœ</ipa>
+	</char>
+
+	<char>
+		<kana>グヮ</kana>
+		<ipa id="0">gwa</ipa>
+		<ipa id="2">ɣwa</ipa>
+		<ipa id="16384">gʷa</ipa>
+		<ipa id="16386">ɣʷa</ipa>
+	</char>
+	<char>
+		<kana>グィ</kana>
+		<ipa id="0">gwi</ipa>
+		<ipa id="2">ɣwi</ipa>
+		<ipa id="4096">gwji</ipa>
+		<ipa id="4098">ɣwji</ipa>
+		<ipa id="12288">gwʲi</ipa>
+		<ipa id="12290">ɣwʲi</ipa>
+		<ipa id="16384">gʷi</ipa>
+		<ipa id="16386">ɣʷi</ipa>
+		<ipa id="20480">gʷji</ipa>
+		<ipa id="20482">ɣʷji</ipa>
+		<ipa id="28672">gʷʲi</ipa>
+		<ipa id="28674">ɣʷʲi</ipa>
+	</char>
+	<char>
+		<kana>グェ</kana>
+		<ipa id="0">gwe</ipa>
+		<ipa id="2">ɣwe</ipa>
+		<ipa id="16384">gʷe</ipa>
+		<ipa id="16386">ɣʷe</ipa>
+	</char>
+	<char>
+		<kana>グォ</kana>
+		<ipa id="0">gwo</ipa>
+		<ipa id="2">ɣwo</ipa>
+		<ipa id="16384">gʷo</ipa>
+		<ipa id="16386">ɣʷo</ipa>
+	</char>
+	<char>
+		<kana>グォァ</kana>
+		<ipa id="0">gwɔ</ipa>
+		<ipa id="2">ɣwɔ</ipa>
+		<ipa id="16384">gʷɔ</ipa>
+		<ipa id="16386">ɣʷɔ</ipa>
+	</char>
+	<char>
+		<kana>グェァ</kana>
+		<ipa id="0">gwɛ</ipa>
+		<ipa id="2">ɣwɛ</ipa>
+		<ipa id="16384">gʷɛ</ipa>
+		<ipa id="16386">ɣʷɛ</ipa>
+	</char>
+	<char>
+		<kana>グヮェ</kana>
+		<ipa id="0">gwæ</ipa>
+		<ipa id="2">ɣwæ</ipa>
+		<ipa id="16384">gʷæ</ipa>
+		<ipa id="16386">ɣʷæ</ipa>
+	</char>
+	<char>
+		<kana>グェォ</kana>
+		<ipa id="0">gwø</ipa>
+		<ipa id="2">ɣwø</ipa>
+		<ipa id="16384">gʷø</ipa>
+		<ipa id="16386">ɣʷø</ipa>
+	</char>
+	<char>
+		<kana>グォェ</kana>
+		<ipa id="0">gwœ</ipa>
+		<ipa id="2">ɣwœ</ipa>
+		<ipa id="16384">gʷœ</ipa>
+		<ipa id="16386">ɣʷœ</ipa>
+	</char>
+
+	<char>
+		<kana>ク゚ヮ</kana>
+		<ipa id="0">ŋwa</ipa>
+		<ipa id="16384">ŋʷa</ipa>
+	</char>
+	<char>
+		<kana>ク゚ィ</kana>
+		<ipa id="0">ŋwi</ipa>
+		<ipa id="4096">ŋwji</ipa>
+		<ipa id="12288">ŋwʲi</ipa>
+		<ipa id="16384">ŋʷi</ipa>
+		<ipa id="20480">ŋʷji</ipa>
+		<ipa id="28672">ŋʷʲi</ipa>
+	</char>
+	<char>
+		<kana>ク゚ェ</kana>
+		<ipa id="0">ŋwe</ipa>
+		<ipa id="16384">ŋʷe</ipa>
+	</char>
+	<char>
+		<kana>ク゚ォ</kana>
+		<ipa id="0">ŋwo</ipa>
+		<ipa id="16384">ŋʷo</ipa>
+	</char>
+	<char>
+		<kana>ク゚ォァ</kana>
+		<ipa id="0">ŋwɔ</ipa>
+		<ipa id="16384">ŋʷɔ</ipa>
+	</char>
+	<char>
+		<kana>ク゚ェァ</kana>
+		<ipa id="0">ŋwɛ</ipa>
+		<ipa id="16384">ŋʷɛ</ipa>
+	</char>
+	<char>
+		<kana>ク゚ヮェ</kana>
+		<ipa id="0">ŋwæ</ipa>
+		<ipa id="16384">ŋʷæ</ipa>
+	</char>
+	<char>
+		<kana>ク゚ェォ</kana>
+		<ipa id="0">ŋwø</ipa>
+		<ipa id="16384">ŋʷø</ipa>
+	</char>
+	<char>
+		<kana>ク゚ォェ</kana>
+		<ipa id="0">ŋwœ</ipa>
+		<ipa id="16384">ŋʷœ</ipa>
+	</char>
+
+	<char>
+		<kana>ー</kana>
+		<ipa id="0">ː</ipa>
+	</char>
+	<char>
+		<kana>ッ</kana>
+		<ipa id="0">Q</ipa>
+	</char>
+	<char>
+		<kana>ン</kana>
+		<ipa id="0">N</ipa>
+	</char>
+
+	<char>
+		<kana>‥</kana>
+		<ipa id="0">̈</ipa>
+	</char>
+	<char>
+		<kana>⊥</kana>
+		<ipa id="0">̝</ipa>
+	</char>
+	<char>
+		<kana>ン＾</kana>
+		<ipa id="0">ⁿ</ipa>
+	</char>
+
+	<!--
+		0b0000'0000'0000'0000
+		1 : ɯ or u
+		2 : g or ɣ
+		4 : ɕ or ʃ
+		8 : dz or z
+		16, 32 : dʑ or ʑ or dʒ or ʒ
+		64 : tɕ or tʃ
+		128 : ɾ or r
+		256 : gj or ɣj
+		512 : ɾj or rj
+		1024 : gw or ɣw
+		2048 : ɲ or (nj or nʲ) (ニャ行音の子音)
+		4096 : i or (ji or ʲi) (イ段音の子音の硬口蓋化)
+		8192 : j or ʲ (硬口蓋化の補助記号化)
+		16384 : w or ʷ (唇音化の補助記号化)
+		32768 : w or ɰ (ワ行子音の非円唇化)
+	-->
+	
+	<!--
+		static int BitCount(this uint value)
+		{
+			int ret = 0;
+			for (; value != 0; ++ret) value &= value - 1;
+			return ret;
+		}
+	
+		IEnumerable<XElement> elements = xDocument.Root.Elements();
+		int setting = 0x0000'0000'0000'0010;	//u = "u", g = "ɣ"
+		string src = "グ";
+		string ret = string.Empty;		
+				
+	-->
+</root>

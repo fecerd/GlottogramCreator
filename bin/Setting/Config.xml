@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<property type="Font" name="MainFont">
+		<property type="String" name="Name">Yu Gothic UI</property>
+		<property type="Single" name="Size">10</property>
+		<property type="GraphicsUnit" name="Unit">3</property>
+	</property>
+</root>

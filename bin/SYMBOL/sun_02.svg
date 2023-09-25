@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="34" height="33" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(17, 16.5)" id="ToCenterGroup">
+    <g transform="translate(0, 0)" id="TranslateGroup">
+      <g transform="scale(1)" id="ScaleGroup">
+        <g transform="scale(1)" id="InversionGroup">
+          <g transform="rotate(0, 0, 0)" id="RotateGroup">
+            <g transform="translate(-17, -16.5)" id="ToOriginGroup">
+              <rect x="0" y="0" width="34" height="33" id="RawSize" style="fill:none;" />
+              <path d="M26.297 14.502 L29.637001 6.293 L20.836002 7.6990004 L16.453 0 L12.057999 7.699 L3.27 6.293 L6.575 14.502 L0 20.443 L8.543 22.992 L9.141 31.822 L16.442 26.765 L23.765999 31.821999 L24.352 22.991999 L32.872 20.442999 L26.297 14.502 z M21.979 21.088 L21.569 27.27 L16.442001 23.731 L11.333001 27.27 L10.911001 21.088001 L4.934001 19.307001 L9.539001 15.147001 L7.219002 9.399001 L13.371002 10.383001 L16.447002 4.998001 L19.511002 10.383001 L25.675001 9.399001 L23.331001 15.147001 L27.936 19.307001 L21.979 21.088 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

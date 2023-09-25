@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="24" height="39" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(12, 19.5)" id="ToCenterGroup">
+    <g transform="translate(0, 0)" id="TranslateGroup">
+      <g transform="scale(1)" id="ScaleGroup">
+        <g transform="scale(1)" id="InversionGroup">
+          <g transform="rotate(0, 0, 0)" id="RotateGroup">
+            <g transform="translate(-12, -19.5)" id="ToOriginGroup">
+              <rect x="0" y="0" width="24" height="39" id="RawSize" style="fill:none;" />
+              <path d="M11.75 1.441 L11.129 0 L10.382999 1.418 L0 37.809 L22.363 37.809 L11.75 1.441 z M11.078 8.504 L11.785 9.832 L18.949 35.266 L3.578 35.207 L11.078 8.504 z" />
+              <path d="M11.258 23.805 C8.7890005 23.805 6.7890005 25.805 6.7890005 28.27 C6.7890005 30.739 8.7890005 32.735 11.258 32.735 C13.723001 32.735 15.723001 30.739 15.723001 28.27 C15.723 25.805 13.723 23.805 11.258 23.805 z M11.258 31.305 C9.582001 31.305 8.223001 29.946001 8.223001 28.27 C8.223001 26.594 9.582001 25.235 11.258 25.235 C12.934 25.235 14.293 26.594 14.293 28.27 C14.293 29.946001 12.934 31.305 11.258 31.305 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="17" height="11" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(8.5, 5.5)" id="ToCenterGroup">
+    <g transform="translate(0, 0)" id="TranslateGroup">
+      <g transform="scale(1)" id="ScaleGroup">
+        <g transform="scale(1)" id="InversionGroup">
+          <g transform="rotate(0, 0, 0)" id="RotateGroup">
+            <g transform="translate(-8.5, -5.5)" id="ToOriginGroup">
+              <rect x="0" y="0" width="17" height="11" id="RawSize" style="fill:none;" />
+              <path d="M0.246 9.455 C0.246 9.455 7.035 6.045 7.566 5.83 C7.972 5.666 8.379 5.842 8.871 6.0099998 C9.535 6.24 15.184 9.146999 15.625 9.295 C16.113 9.455 16.113 9.1310005 16.113 9.1310005 L16.113 0.177 C16.113 0.177 16.191 -0.065 15.785001 0.017000005 C15.379 0.095 9.52 3.255 9.113 3.419 C8.707 3.58 8.219 4.029 7.242 3.58 C6.91 3.427 0.652 0.095 0.324 0.017 C0 -0.065 0 0.501 0 0.423 C0 0.34100002 0 8.806001 0 9.048 C0 9.294 0.246 9.455 0.246 9.455 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
